@@ -1,1 +1,16 @@
-{"domainUrl":"http://wd-china.7128832.com","updateUrl":"http://wd.yba8.com","branches":[{"code":"1001","version":"1.0.1","status":"deprecated"},{"code":"1002","version":"1.0.2","status":"release"}]}
+{
+  "domainUrl":"http://wd-china.7128832.com",
+  "updateUrl":"http://wd.yba8.com",
+  "branches":[
+    {
+      "code":"1001",
+      "version":"1.0.1",
+      "status":"deprecated"
+    },
+    {
+      "code":"1002",
+      "version":"1.0.2",
+      "status":"release"
+    }
+  ]
+}
